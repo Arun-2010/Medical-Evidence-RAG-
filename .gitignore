@@ -1,0 +1,25 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+install.log
+
+# Model caches
+.cache/
+models/
+
+# Local data (regenerable): corpus, indexes, datasets, evaluation outputs
+data/raw/*
+data/processed/*
+data/chroma/*
+data/eval/pubmedqa/
+data/eval/chroma/
+data/eval/runs/
+!data/**/.gitkeep

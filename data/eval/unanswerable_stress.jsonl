@@ -1,0 +1,12 @@
+{"id": "stress-001", "question": "What is the capital city of Australia?", "note": "out of domain"}
+{"id": "stress-002", "question": "Who won the FIFA World Cup in 1998?", "note": "out of domain"}
+{"id": "stress-003", "question": "How do I reverse a linked list in Python?", "note": "out of domain"}
+{"id": "stress-004", "question": "What is the boiling point of tungsten in degrees Celsius?", "note": "out of domain"}
+{"id": "stress-005", "question": "Which year did the Berlin Wall fall?", "note": "out of domain"}
+{"id": "stress-006", "question": "Does zorvaxitol reduce mortality in patients with Kessler-Aldane syndrome?", "note": "fictitious drug and disease"}
+{"id": "stress-007", "question": "What is the recommended dose of quintamab for paediatric glimmer fever?", "note": "fictitious drug and disease"}
+{"id": "stress-008", "question": "Is the Hartwell-Nguyen procedure superior to placebo for treating lunar vertigo?", "note": "fictitious procedure and disease"}
+{"id": "stress-009", "question": "How does the fictional enzyme blorptase affect telomere length in Martian colonists?", "note": "fictitious entity"}
+{"id": "stress-010", "question": "What was the average rainfall in Lisbon in March 2011?", "note": "out of domain"}
+{"id": "stress-011", "question": "Which chess opening gives white the best winning chances?", "note": "out of domain"}
+{"id": "stress-012", "question": "What is the tensile strength of carbon fibre reinforced polymer?", "note": "out of domain"}

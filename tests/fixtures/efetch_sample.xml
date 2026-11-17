@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">1001</PMID>
+      <Article>
+        <Journal>
+          <JournalIssue><PubDate><Year>2019</Year><Month>Mar</Month></PubDate></JournalIssue>
+          <Title>Journal of Asthma Research</Title>
+        </Journal>
+        <ArticleTitle>Inhaled corticosteroids and <i>exacerbation</i> risk.</ArticleTitle>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Asthma exacerbations are common.</AbstractText>
+          <AbstractText Label="RESULTS">Exacerbations fell by 30% with H<sub>2</sub>O-based delivery.</AbstractText>
+        </Abstract>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">1002</PMID>
+      <Article>
+        <Journal>
+          <JournalIssue><PubDate><MedlineDate>2015 Nov-Dec</MedlineDate></PubDate></JournalIssue>
+          <Title>Respiratory Letters</Title>
+        </Journal>
+        <ArticleTitle>An unstructured abstract.</ArticleTitle>
+        <Abstract><AbstractText>Single paragraph   abstract
+          text.</AbstractText></Abstract>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">1003</PMID>
+      <Article>
+        <Journal><JournalIssue><PubDate><Year>2021</Year></PubDate></JournalIssue><Title>J</Title></Journal>
+        <ArticleTitle>No abstract here.</ArticleTitle>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">1004</PMID>
+      <Article>
+        <Journal><JournalIssue><PubDate></PubDate></JournalIssue></Journal>
+        <ArticleTitle>Missing date and journal.</ArticleTitle>
+        <Abstract><AbstractText>Abstract without a date.</AbstractText></Abstract>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <Article>
+        <ArticleTitle>Record without PMID.</ArticleTitle>
+        <Abstract><AbstractText>Orphan abstract.</AbstractText></Abstract>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">1005</PMID>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">1001</PMID>
+      <Article>
+        <ArticleTitle>Duplicate of 1001.</ArticleTitle>
+        <Abstract><AbstractText>Duplicate abstract.</AbstractText></Abstract>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedBookArticle>
+    <BookDocument><PMID Version="1">1999</PMID></BookDocument>
+  </PubmedBookArticle>
+</PubmedArticleSet>
